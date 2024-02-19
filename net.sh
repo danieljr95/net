@@ -14,3 +14,13 @@ systeminfo
 # Mostrar lista de procesos en ejeucion
 echo "Lista de procesos:"
 tasklist 
+
+#mostrar tdoas las direciones ip
+
+echo "mostar todas direcciones ip de la red"
+
+arp -a
+
+
+
+
