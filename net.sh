@@ -10,3 +10,7 @@ echo "La dirección IP ingresada es: $ip_address"
 # Info del sistema
 echo "Info del sistema:"
 systeminfo
+
+# Mostrar lista de procesos en ejeucion
+echo "Lista de procesos:"
+tasklist 
