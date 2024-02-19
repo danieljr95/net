@@ -23,4 +23,8 @@ arp -a
 
 
 
+# ver la version del sistema operativo
+
+echo " ver la version del equipo del sistema :$winver"
+winver
 
